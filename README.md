@@ -3,7 +3,9 @@ TODO:
 - copy this locally: composer create-project stilliard/composer-package-boilerplate
 - delete these top lines once read
 - git init as a fresh repo
-- start coding your classes in ./src/ and your tests in ./tests/ etc, commiting while you go. (Theres a Demo class and DemoTest class ready for you to rename)
+- change TODO's in this file
+- change the composer package "name", "description", etc. in the composer.json file
+- start coding your classes in ./src/ and your tests in ./tests/ etc, commiting while you go. (Theres a Demo/Something class and Demo/Test/SomethingTest class ready for you to rename)
 - setup a github repo and push to it
 - setup travis-ci for auto testing and scrutinizer for checking for improvements
 - you're done :D
