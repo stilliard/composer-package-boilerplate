@@ -1,0 +1,21 @@
+{
+    "name": "stilliard/demo",
+    "description": "Demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Stilliard",
+            "email": "andrew.stilliard@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src",
+            "Demo\\Tests\\": "tests"
+        }
+    },
+    "require": {
+        "php": ">=5.3"
+    }
+}
