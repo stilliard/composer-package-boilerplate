@@ -1,6 +1,6 @@
 # Simple composer package boilerplate (Just a few default files i use when creating a blank composer package)
 TODO:
-- copy this locally: composer create-project stilliard/composer-package-boilerplate
+- copy this locally: composer create-project stilliard/composer-package-boilerplate PROJECT_NAME -s dev 
 - delete these top lines once read
 - git init as a fresh repo
 - change TODO's in this file
